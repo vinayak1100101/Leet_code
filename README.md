@@ -14,3 +14,7 @@
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/vinayak1100101/Coding_Problems/tree/master/1138-grumpy-bookstore-owner) |
+# Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0007-reverse-integer) |
