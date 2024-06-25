@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinayak1100101/Coding_Problems/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0013-roman-to-integer) |
 # Sliding Window
 |  |
 | ------- |
@@ -18,3 +19,8 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0013-roman-to-integer) |
+# String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0013-roman-to-integer) |
