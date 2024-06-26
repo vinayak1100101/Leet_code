@@ -20,6 +20,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/vinayak1100101/Coding_Problems/tree/master/0067-add-binary) |
 # String
 |  |
 | ------- |
@@ -33,3 +34,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinayak1100101/Coding_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/vinayak1100101/Coding_Problems/tree/master/0067-add-binary) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vinayak1100101/Coding_Problems/tree/master/0067-add-binary) |
+# Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vinayak1100101/Coding_Problems/tree/master/0067-add-binary) |
