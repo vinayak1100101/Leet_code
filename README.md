@@ -43,3 +43,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vinayak1100101/Coding_Problems/tree/master/0067-add-binary) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/vinayak1100101/Coding_Problems/tree/master/1916-find-center-of-star-graph) |
