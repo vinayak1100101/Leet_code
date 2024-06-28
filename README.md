@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0908-middle-of-the-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
