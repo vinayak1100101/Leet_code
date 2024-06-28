@@ -53,8 +53,13 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
