@@ -47,3 +47,14 @@
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/vinayak1100101/Coding_Problems/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+<!---LeetCode Topics End-->
