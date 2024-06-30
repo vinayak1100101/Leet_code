@@ -53,12 +53,14 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vinayak1100101/Coding_Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -67,5 +69,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
