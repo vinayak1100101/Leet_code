@@ -77,4 +77,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/vinayak1100101/Coding_Problems/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
