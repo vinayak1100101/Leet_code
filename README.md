@@ -68,6 +68,7 @@
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/vinayak1100101/Coding_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2812-find-the-maximum-achievable-number](https://github.com/vinayak1100101/Coding_Problems/tree/master/2812-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |
