@@ -82,4 +82,9 @@
 |  |
 | ------- |
 | [1293-three-consecutive-odds](https://github.com/vinayak1100101/Coding_Problems/tree/master/1293-three-consecutive-odds) |
+| [2727-number-of-senior-citizens](https://github.com/vinayak1100101/Leet_code/tree/master/2727-number-of-senior-citizens) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/vinayak1100101/Leet_code/tree/master/2727-number-of-senior-citizens) |
 <!---LeetCode Topics End-->
