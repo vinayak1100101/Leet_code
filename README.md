@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/vinayak1100101/Leet_code/tree/master/0189-rotate-array) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vinayak1100101/Coding_Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/vinayak1100101/Coding_Problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/vinayak1100101/Coding_Problems/tree/master/2812-find-the-maximum-achievable-number) |
@@ -76,6 +77,7 @@
 | [0027-remove-element](https://github.com/vinayak1100101/Leet_code/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinayak1100101/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/vinayak1100101/Leet_code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -90,6 +92,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinayak1100101/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinayak1100101/Leet_code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vinayak1100101/Leet_code/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/vinayak1100101/Coding_Problems/tree/master/1293-three-consecutive-odds) |
 | [2727-number-of-senior-citizens](https://github.com/vinayak1100101/Leet_code/tree/master/2727-number-of-senior-citizens) |
 ## String
