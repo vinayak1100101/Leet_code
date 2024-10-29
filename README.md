@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vinayak1100101/Leet_code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
@@ -83,6 +84,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/vinayak1100101/Leet_code/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/vinayak1100101/Coding_Problems/tree/master/1293-three-consecutive-odds) |
