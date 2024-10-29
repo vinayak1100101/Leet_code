@@ -72,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/vinayak1100101/Coding_Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -81,10 +82,15 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/vinayak1100101/Coding_Problems/tree/master/1293-three-consecutive-odds) |
 | [2727-number-of-senior-citizens](https://github.com/vinayak1100101/Leet_code/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/vinayak1100101/Leet_code/tree/master/2727-number-of-senior-citizens) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
