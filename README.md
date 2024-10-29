@@ -91,6 +91,7 @@
 | [0027-remove-element](https://github.com/vinayak1100101/Leet_code/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinayak1100101/Leet_code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak1100101/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/vinayak1100101/Leet_code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vinayak1100101/Leet_code/tree/master/0189-rotate-array) |
 | [1293-three-consecutive-odds](https://github.com/vinayak1100101/Coding_Problems/tree/master/1293-three-consecutive-odds) |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinayak1100101/Leet_code/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vinayak1100101/Leet_code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
