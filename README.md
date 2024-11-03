@@ -127,4 +127,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinayak1100101/Leet_code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/vinayak1100101/Leet_code/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
