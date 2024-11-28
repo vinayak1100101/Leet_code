@@ -100,16 +100,19 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vinayak1100101/Leet_code/tree/master/0242-valid-anagram) |
 | [2727-number-of-senior-citizens](https://github.com/vinayak1100101/Leet_code/tree/master/2727-number-of-senior-citizens) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/vinayak1100101/Leet_code/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/vinayak1100101/Leet_code/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vinayak1100101/Leet_code/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinayak1100101/Leet_code/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/vinayak1100101/Leet_code/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
